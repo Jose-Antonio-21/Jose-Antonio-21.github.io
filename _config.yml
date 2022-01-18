@@ -16,7 +16,7 @@
 title: Pagina de Jose Antonio
 email: josecastih@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog de 3º de ESO
+  Blog de Jose Antonio
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
