@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "la tarea"
+title:  Atom, Entorno de desarrollo integrado libre
 date:   2022-2-22 14:30:36 +0200
 categories: Novedades
-author: Jose-Antnio-21
+author: Jose-Antonio-21
 ---
 
 <u>¿QUE ES ATOM?</u>
